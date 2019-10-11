@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeoruinga.tanghao655.com/sitemap.xml
